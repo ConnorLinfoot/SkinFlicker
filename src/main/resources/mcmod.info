@@ -2,13 +2,13 @@
 {
   "modid": "skinflicker",
   "name": "Skin Flicker",
-  "description": "Example placeholder mod.",
+  "description": "Mod for making your skin flicker.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Connor Linfoot"],
-  "credits": "The Forge and FML guys, for making this example",
+  "credits": "Created by Connor Linfoot.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

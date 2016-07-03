@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.gameevent.TickEvent;
 @Mod(modid = SkinFlicker.MODID, version = SkinFlicker.VERSION, guiFactory = "com.connorlinfoot.skinflicker.GuiFact")
 public class SkinFlicker {
 	public static final String MODID = "skinflicker";
-	public static final String VERSION = "1.0";
+	public static final String VERSION = "1.0.1";
 	private int counter = 0;
 	private ConfigHandler configHandler;
 	private static SkinFlicker skinFlicker;
